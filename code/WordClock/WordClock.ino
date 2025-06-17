@@ -25,7 +25,7 @@ const char* ssid = "welcome";
 const char* password = "";
 
 // const char* ssid = "Turbofritz2";
-// const char* password = "dunav1#dragic";
+// const char* password = "*************";
 
 
 // LED Stripe
